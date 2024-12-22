@@ -2,6 +2,6 @@
 
 Este repositório contém uma coleção de dashboards criados no Tableau para explorar dados, gerar insights e melhorar a tomada de decisão. Cada dashboard é organizado com informações sobre o contexto, os KPIs principais e as fontes de dados utilizadas.
 
-_💡 **Curiosidade**: O Tableau foi a primeira ferramenta de visualização que aprendi quando decidi atuar na área de dados. Desde então, tenho um carinho especial por ela e pela comunidade incrível que a cerca!_
+💡 _**Curiosidade**: O Tableau foi a primeira ferramenta de visualização que aprendi quando decidi atuar na área de dados. Desde então, tenho um carinho especial por ela e pela comunidade incrível que a cerca!_
 
 Em progresso...
