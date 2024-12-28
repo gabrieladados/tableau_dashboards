@@ -10,6 +10,11 @@ Este repositório contém uma coleção de dashboards desenvolvidos no Tableau, 
 
 Este dashboard foi desenvolvido para fornecer insights estratégicos sobre o desempenho de vendas e o impacto de devoluções na SuperStore, permitindo o acompanhamento de KPIs importantes e a análise detalhada de pedidos.
 
+<p align="center">
+  <img alt="Dashboard de Vendas" src="https://github.com/user-attachments/assets/a04751ed-230f-4220-9632-c4c0fcad8708" width="80%">
+</p>
+
+
 ### 🔍 Principais Indicadores:
 - **Total Sales**: Valor total de vendas realizadas no período analisado.
 - **Total Profit**: Lucro total gerado pelas vendas.
@@ -38,6 +43,10 @@ Explore o dashboard interativo no Tableau Public clicando neste link: 🔗 [Aces
 ## 2. Dashboard de Controle de NPS 🎯
 
 Este dashboard foi desenvolvido para monitorar o Net Promoter Score (NPS), um importante indicador de satisfação e fidelidade dos clientes. Ele fornece uma visão abrangente das respostas coletadas, permitindo identificar tendências de satisfação por localidade e ao longo do tempo.
+
+<p align="center">
+  <img alt="Dashboard de Vendas" src="https://github.com/user-attachments/assets/dc5f37a5-3703-45f7-8525-580ebfc117fb" width="80%">
+</p>
 
 #### 🔍 Principais Indicadores:
 - **Número de Respostas:** Total de respostas coletadas na pesquisa.
