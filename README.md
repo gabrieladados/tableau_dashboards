@@ -55,6 +55,17 @@ Este dashboard foi desenvolvido para monitorar o Net Promoter Score (NPS), um im
 #### 🌐 Acesse o Dashboard:
 Explore o dashboard interativo no Tableau Public clicando no link: 🔗 [Acessar Dashboard de Controle de NPS](https://public.tableau.com/views/DashboardNPS_17354066811830/DashboardNPS?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
+<br>
+
+## Contribuições
+
+Muito obrigada por acompanhar meu projeto até aqui! 🎉
+
+Contribuições são **muito bem-vindas**. Se você tem sugestões ou melhorias, fique à vontade para abrir uma **issue** ou enviar um **pull request**.
+
+Gostou do projeto? Não esqueça de dar uma ⭐️! 
+
+
 
 
 
